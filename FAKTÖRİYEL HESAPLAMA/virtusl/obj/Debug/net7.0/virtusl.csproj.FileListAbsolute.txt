@@ -1,0 +1,28 @@
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\bin\Debug\net7.0\virtusl.exe
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\bin\Debug\net7.0\virtusl.deps.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\bin\Debug\net7.0\virtusl.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\bin\Debug\net7.0\virtusl.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\bin\Debug\net7.0\virtusl.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\virtusl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\virtusl.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\virtusl.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\virtusl.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\virtusl.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\refint\virtusl.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\virtusl.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\virtusl.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\ConsoleApp2\virtusl\virtusl\obj\Debug\net7.0\ref\virtusl.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\bin\Debug\net7.0\virtusl.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\bin\Debug\net7.0\virtusl.deps.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\bin\Debug\net7.0\virtusl.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\bin\Debug\net7.0\virtusl.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\bin\Debug\net7.0\virtusl.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\virtusl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\virtusl.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\virtusl.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\virtusl.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\virtusl.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\refint\virtusl.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\virtusl.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\virtusl.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FAKTÖRİYEL HESAPLAMA\virtusl\obj\Debug\net7.0\ref\virtusl.dll
